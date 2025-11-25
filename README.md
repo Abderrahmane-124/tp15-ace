@@ -303,7 +303,23 @@ Exemple de message d'erreur:
 - [ ] Notifications lors des transactions
 - [ ] Limites de retrait par compte
 
-## 👨‍💻 Auteur
+# Captures d'ecran
+<img width="1919" height="1058" alt="Screenshot 2025-11-25 151019" src="https://github.com/user-attachments/assets/6cf91b4a-f794-447c-aacd-46a56a2de3a2" />
 
-Projet réalisé dans le cadre du cours "Architecture Composants D'entreprise" - 5IIR
+<img width="1833" height="982" alt="Screenshot 2025-11-25 151052" src="https://github.com/user-attachments/assets/3a32028b-436e-4d2c-b027-ccc070f7156b" />
+
+<img width="1840" height="992" alt="Screenshot 2025-11-25 151222" src="https://github.com/user-attachments/assets/8ac01546-ee3a-4ad7-96e2-c87745a4c1a2" />
+<img width="1831" height="990" alt="Screenshot 2025-11-25 151305" src="https://github.com/user-attachments/assets/c728463a-1220-45fc-bbd2-5dd26536e33c" />
+
+<img width="1837" height="988" alt="Screenshot 2025-11-25 151407" src="https://github.com/user-attachments/assets/4b32110f-bdc8-4425-b5fa-742a9a812106" />
+<img width="1654" height="784" alt="Screenshot 2025-11-25 164854" src="https://github.com/user-attachments/assets/b5ae71d9-95ed-437b-aa30-85d45a614fd6" />
+
+<img width="1711" height="830" alt="Screenshot 2025-11-25 164933" src="https://github.com/user-attachments/assets/3f1508b0-020a-4db2-8336-cfe78b13ea79" />
+
+
+<img width="1457" height="505" alt="Screenshot 2025-11-25 164952" src="https://github.com/user-attachments/assets/d0dfc0f3-291b-45aa-a6d7-a0b0d2082b14" />
+
+
+
+
 
